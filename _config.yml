@@ -94,7 +94,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "jankomania,blog,jankomaniablog"
 
 # --- Colours / background image --- #
 
@@ -117,7 +117,7 @@ footer-hover-col: "#66FCF1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
@@ -133,7 +133,7 @@ footer-hover-col: "#66FCF1"
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "G-390TH9LYX8"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 google_analytics: "G-390TH9LYX8"
