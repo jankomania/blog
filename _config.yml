@@ -100,17 +100,17 @@ keywords: "jankomania,blog,jankomaniablog"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#1F2833"
-navbar-text-col: "#C5C6C7"
-navbar-border-col: "#DDDDDD"
-page-col: "#0B0C10"
-text-col: "#C5C6C7"
-link-col: "#45A29E"
-hover-col: "#66FCF1"
-footer-col: "#1F2833"
-footer-text-col: "#C5C6C7"
-footer-link-col: "#45A29E"
-footer-hover-col: "#66FCF1"
+navbar-col: "#272822"
+navbar-text-col: "#75715E"
+navbar-border-col: "#75715E"
+page-col: "#F8F8F2"
+text-col: "#75715E"
+link-col: "#75715E"
+hover-col: "#272822"
+footer-col: "#272822"
+footer-text-col: "#75715E"
+footer-link-col: "#75715E"
+footer-hover-col: "#F8F8F2"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
