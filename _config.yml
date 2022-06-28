@@ -100,24 +100,24 @@ keywords: "jankomania,blog,jankomaniablog"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#314215"
-navbar-text-col: "#80965B"
-navbar-border-col: "#FBC61C"
-page-col: "#CCE79D"
-text-col: "#263A04"
-link-col: "#5D7D28"
-hover-col: "#87C225"
-footer-col: "#314215"
-footer-text-col: "#80965B"
-footer-link-col: "#5D7D28"
-footer-hover-col: "#87C225"
+navbar-col: "#F3F3F3"
+navbar-text-col: "#2C2C2C"
+navbar-border-col: "#F3F3F3"
+page-col: "#F3F3F3"
+text-col: "#2C2C2C"
+link-col: "#313A5A"
+hover-col: "#6273AE"
+footer-col: "#F3F3F3"
+footer-text-col: "#2C2C2C"
+footer-link-col: "#313A5A"
+footer-hover-col: "#6273AE"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/5015.png"
-footer-img: "/assets/img/5015.png"
-page-img: "/assets/img/5016.png"
+#navbar-img: "/assets/img/5015.png"
+#footer-img: "/assets/img/5015.png"
+#page-img: "/assets/img/5014.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
