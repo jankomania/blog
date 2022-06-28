@@ -40,7 +40,7 @@ social-network-links:
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: jankomania
-# twitter: daattali
+#  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -105,12 +105,12 @@ navbar-text-col: "#2C2C2C"
 navbar-border-col: "#F3F3F3"
 page-col: "#F3F3F3"
 text-col: "#2C2C2C"
-link-col: "#313A5A"
-hover-col: "#6273AE"
+link-col: "#707895"
+hover-col: "#425AB0"
 footer-col: "#F3F3F3"
 footer-text-col: "#2C2C2C"
-footer-link-col: "#313A5A"
-footer-hover-col: "#6273AE"
+footer-link-col: "#707895"
+footer-hover-col: "#425AB0"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
